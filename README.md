@@ -1,4 +1,4 @@
 numerical-methods-with-python
 =============================
 
-Scientific computing using Python. 
+This is a collection of programs for scientific computing using Python.
